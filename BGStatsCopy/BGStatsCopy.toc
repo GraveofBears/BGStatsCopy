@@ -1,0 +1,8 @@
+## Interface: 100007
+## Title: BG Stats Copy
+## Notes: Gives a button to copies battleground statistics to clipboard
+## Author: Gravebear
+## Version: 1.0
+## IconTexture: Interface\Icons\INV_Banner_03
+
+BGStatsCopy.lua
